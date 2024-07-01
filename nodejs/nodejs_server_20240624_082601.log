@@ -1,0 +1,4 @@
+[2024-06-24T08:24:37.668Z] Node.js server started on port 5000
+[2024-06-24T08:25:12.310Z] GET /help/
+[2024-06-24T08:25:12.310Z] GET /help
+[2024-06-24T08:25:13.718Z] GET /favicon.ico
